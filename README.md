@@ -6,4 +6,4 @@ I am a student of BS CS at Punjab University College of Information technology.
 - 💬 Ask me about C, C++, Python, Java, Javascript 
 - 📫 How to reach me: ahsan.m.riaz87004@gmail.com
 - 😄 Pronouns: Ahh-Sun
-- ⚡ Fun fact: I love to solve programming problem.
+- ⚡ Fun fact: I love to solve programming problems.
