@@ -11,3 +11,5 @@ I am a student of BS CS at Punjab University College of Information technology.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsanriaz9)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsanriaz9&hide=contribs,prs)
+
