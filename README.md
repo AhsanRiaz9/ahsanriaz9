@@ -10,8 +10,7 @@ I am a student of BS CS at Punjab University College of Information technology.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsanriaz9&show_icons=true&theme=radical)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanriaz9&langs_count=10)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ahsanriaz9&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 
 
