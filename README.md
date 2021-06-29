@@ -1,5 +1,5 @@
 ### Hi there 👋, My Name is Ahsan Riaz
-I am a student of BS CS at Punjab University College of Information technology.
+I am a student of BS CS at Punjab University College of Information Technology.
 - 🔭 I’m currently working as a Freelancer on Fiverr.
 - 🌱 I’m currently learning Full Stack Web Development in MERN.
 - 🤔 I’m looking for internship in web development.
