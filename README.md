@@ -1,4 +1,4 @@
-![Image](1626719730536.gif)
+![Image](1626719730536.gif?style=centerme)
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=AhsanRiaz9)
 
 My Name is Ahsan Riaz
