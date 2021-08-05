@@ -1,4 +1,6 @@
-![Image](1626719730536.gif?style=centerme)  ## Hi there 👋 ![](https://komarev.com/ghpvc/?username=AhsanRiaz9) ### My Name is Ahsan Riaz 
+![Image](1626719730536.gif?style=centerme) 
+## Hi there 👋 ![](https://komarev.com/ghpvc/?username=AhsanRiaz9)
+### My Name is Ahsan Riaz 
 
 
 I am a student of BS CS at Punjab University College of Information Technology.
