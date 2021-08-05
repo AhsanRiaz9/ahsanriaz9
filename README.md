@@ -11,9 +11,8 @@ I am a student of BS CS at Punjab University College of Information Technology.
 - ⚡ Fun fact: I love to solve programming problems.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsanriaz9&show_icons=true&theme=radical) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?ahsanriaz9)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanriaz9&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanriaz9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanriaz9&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
