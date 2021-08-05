@@ -1,5 +1,5 @@
-### Hi there 👋
-![](https://komarev.com/ghpvc/?username=AhsanRiaz9)
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=AhsanRiaz9)
+
 My Name is Ahsan Riaz
 I am a student of BS CS at Punjab University College of Information Technology.
 - 🔭 I’m currently working as a Freelancer on Fiverr.
