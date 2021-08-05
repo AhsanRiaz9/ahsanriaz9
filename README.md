@@ -14,8 +14,6 @@ I am a student of BS CS at Punjab University College of Information Technology.
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?ahsanriaz9&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsanriaz9&show_icons=true)
-
 
 
 
