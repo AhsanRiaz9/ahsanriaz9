@@ -6,7 +6,6 @@
 I am a student of BS CS at Punjab University College of Information Technology.
 - 🔭 I’m currently working on FYP.
 - 🌱 I’m currently learning Full Stack Web Development in MERN.
-- 🤔 I’m looking for internship in web development.
 - 💬 Ask me about C, C++, Python, Java, HTML, CSS, Javascript or Assembly language.
 - 📫 How to reach me: https://www.instagram.com/ahsanriaz49/
 - 😄 Pronounce: Ahh-Sun
