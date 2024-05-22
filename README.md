@@ -14,5 +14,5 @@ consistently delivering efficient and scalable solutions while staying up-to-dat
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanriaz9&layout=compact&langs_count=12&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsanriaz9&show_icons=true&theme=radical) 
 
-![Snake animation](https://github.com/mlarasusan/mlarasusan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ahsanriaz9/ahsanriaz9/output/github-contribution-grid-snake-dark.svg)
 
