@@ -4,7 +4,7 @@
 
 💻 **Python Developer | Backend Engineer | Web Scraping Specialist**
 
-I'm a passionate software developer with **2.5+ years of experience** in building scalable backend systems, APIs, and automation tools. I enjoy solving complex problems, optimizing performance, and creating products that make an impact.
+I'm a passionate software developer with hands of experience in building scalable backend systems, APIs, and automation tools. I enjoy solving complex problems, optimizing performance, and creating products that make an impact.
 
 ## 🚀 Tech Stack
 
