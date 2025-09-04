@@ -2,7 +2,7 @@
 ## Hi there 👋 ![](https://komarev.com/ghpvc/?username=AhsanRiaz9)
 ### My Name is Ahsan Riaz 
 
-A passionate Full Stack Engineer with 3+ years of experience in web development. Proficient in Python, Flask, FastAPI, Django,
+A passionate Full Stack Engineer with hands on experience in web development. Proficient in Python, Flask, FastAPI, Django,
 JavaScript, Ruby on Rails, Tailwind CSS, Bootstrap, React.js, MySQL, PostgreSQL, NoSQL and Web Scraping. Adaptable and resourceful,
 consistently delivering efficient and scalable solutions while staying up-to-date with emerging technologies.
 
