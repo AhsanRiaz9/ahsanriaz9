@@ -21,20 +21,18 @@ I'm a passionate software developer with hands of experience in building scalabl
 🔹 **Custom AI Chatbots** – Built with **FastAPI, Flask, Django, WebSockets, Redis, and RAG-based LLMs**.
 🔹 **Automation & Web Scraping Projects** – Delivered data pipelines, crawlers, and automation scripts for clients worldwide.
 
-## 📈 GitHub Stats
-
-![Ahsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhsanRiaz9\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanRiaz9\&layout=compact\&theme=radical)
-
----
-
 ## 🌍 Let's Connect
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/ahsan-riaz9/)
 * 📧 **[ahsan.m.riaz87004@gmail.com](mailto:ahsan.m.riaz87004@gmail.com)**
 
 ✨ Always learning, always building. Let’s collaborate on meaningful projects!
+
+## 📈 GitHub Stats
+
+![Ahsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhsanRiaz9\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanRiaz9\&layout=compact\&theme=radical)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanriaz9&layout=compact&langs_count=12&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsanriaz9&show_icons=true&theme=radical) 
 
