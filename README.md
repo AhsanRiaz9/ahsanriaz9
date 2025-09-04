@@ -32,7 +32,7 @@ I'm a passionate software developer with hands of experience in building scalabl
 ## 🌍 Let's Connect
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/ahsan-riaz9/)
-* 📧 **[ahsanriaz.dev@gmail.com](mailto:ahsanriaz.dev@gmail.com)**
+* 📧 **[ahsan.m.riaz87004@gmail.com](mailto:ahsan.m.riaz87004@gmail.com)**
 
 ✨ Always learning, always building. Let’s collaborate on meaningful projects!
 
