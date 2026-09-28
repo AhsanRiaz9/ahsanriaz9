@@ -10,7 +10,7 @@ I specialize in turning business requirements into **reliable, scalable, product
 
 * 🤖 **AI & LLM Applications** — AI assistants, RAG systems, document Q&A, AI automation, OpenAI integrations, and intelligent workflows
 * 🚀 **SaaS Platforms** — Multi-tenant applications, subscription systems, dashboards, RBAC, APIs, and scalable backend architectures
-* 🐍 **Python Backend Systems** — Django, DRF, FastAPI, Flask, REST APIs, WebSockets, background jobs, and third-party integrations
+* 🐍 **Python Backend Systems** — Django, Django REST Framework, FastAPI, Flask, REST APIs, WebSockets, background jobs, and third-party integrations
 * ⚛️ **Full Stack Applications** — React, JavaScript/TypeScript, Tailwind CSS with Python-based backends
 * 🔄 **Automation & Integrations** — API integrations, webhooks, workflow automation, data pipelines, and business process automation
 * 🕷️ **Web Scraping & Data Engineering** — Scrapy, Selenium, Playwright, proxy systems, scheduled crawlers, and large-scale data processing
@@ -50,19 +50,22 @@ Built an AI-powered legal platform using **FastAPI, OpenAI, MySQL, MongoDB, SQLA
 * AI document generation with conditional clauses and placeholders
 * PDF and Word document generation
 * Analytics dashboard and user activity insights
+* User feedback and AI response regeneration
+* Secure authentication and user management
 * Production deployment on AWS
 
 #### 🛒 Large-Scale Price Comparison Platform
 
-Built a marketplace price comparison system processing **800K+ product records**.
+Built a marketplace price comparison system processing **800K+ product records** across multiple marketplaces.
 
-* Scrapy-based distributed scraping
+* Scrapy-based product data collection
 * Selenium for dynamic websites
-* FastAPI scheduling and APIs
+* FastAPI APIs and scheduling
 * OpenSearch for high-performance product search
 * AWS S3 logging
 * Automated Buy Box monitoring
 * Slack notifications and monitoring
+* Data processing and product normalization
 
 #### 🤖 AI Chatbots & Automation
 
@@ -70,31 +73,39 @@ Developed AI-powered assistants and automation systems using:
 
 **Python · FastAPI · Django · OpenAI · RAG · Redis · WebSockets · REST APIs**
 
+Built solutions involving conversational AI, document Q&A, third-party API integrations, automated workflows, and business process automation.
+
 ### 📈 Engineering Focus
 
-I care about:
+I focus on building software that is:
 
-* Scalable and maintainable architecture
-* Clean and reusable Python code
-* API performance and reliability
-* Database optimization
-* Secure authentication and authorization
-* Automated testing and CI/CD
-* Production monitoring and deployment
-* Practical AI integration rather than AI for the sake of AI
+* Scalable and maintainable
+* Production-ready
+* Secure and reliable
+* Performance-oriented
+* Easy to extend and maintain
+* Well integrated with third-party services
+* Designed around real business requirements
 
-### 🤝 Available for
+Areas I particularly enjoy working on include **Python backend architecture, AI integrations, RAG systems, SaaS products, APIs, automation, data-intensive applications, and cloud deployments.**
 
-I work with startups, SaaS companies, and businesses that need help with:
+### 🤝 Who I Work With
 
-**AI/LLM Development · RAG Applications · Python Backend Development · SaaS Development · API Development · Full Stack Development · Automation · Web Scraping · Third-Party Integrations**
+I work with **startups, SaaS companies, founders, agencies, and businesses** that need experienced engineering support for:
 
-Have a product idea or an existing system that needs development or improvement?
+**AI/LLM Development · RAG Applications · Python Backend Development · SaaS Development · API Development · Full Stack Development · Automation · Web Scraping · Data Pipelines · Third-Party Integrations · AWS Cloud Development**
 
-### 📫 Let's Connect
+Whether you are building a new product, adding AI capabilities to an existing application, scaling a backend system, or automating a manual workflow, I can help turn the requirements into a production-ready solution.
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/ahsan-riaz9/)
-* 📧 Email: ahsan.m.riaz87004@gmail.com
-* 🐙 [GitHub](https://github.com/AhsanRiaz9)
+### 📫 Have a Project in Mind?
 
-⭐ If you find my work useful, feel free to explore my repositories and connect with me.
+Feel free to reach out directly to discuss your project, technical requirements, or development needs.
+
+📧 **Email:** [ahsan.m.riaz87004@gmail.com](mailto:ahsan.m.riaz87004@gmail.com)
+💼 **LinkedIn:** https://www.linkedin.com/in/ahsan-riaz9/
+🌐 **Portfolio:** https://ahsanriaz9.github.io
+📅 **Book a 30-Minute Consultation:** https://calendly.com/ahsan-m-riaz87004/30min
+
+---
+
+⭐ **Interested in working together?** Explore my repositories, visit my portfolio, or book a consultation to discuss your project.
