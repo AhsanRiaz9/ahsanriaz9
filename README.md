@@ -101,11 +101,15 @@ Whether you are building a new product, adding AI capabilities to an existing ap
 
 Feel free to reach out directly to discuss your project, technical requirements, or development needs.
 
-📧 **Email:** [ahsan.m.riaz87004@gmail.com](mailto:ahsan.m.riaz87004@gmail.com)
-💼 **LinkedIn:** https://www.linkedin.com/in/ahsan-riaz9/
-🌐 **Portfolio:** https://ahsanriaz9.github.io
-📅 **Book a 30-Minute Consultation:** https://calendly.com/ahsan-m-riaz87004/30min
+* 📧 **Email:** [ahsan.m.riaz87004@gmail.com](mailto:ahsan.m.riaz87004@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/ahsan-riaz9](https://www.linkedin.com/in/ahsan-riaz9/)
+* 🌐 **Portfolio:** [ahsanriaz9.github.io](https://ahsanriaz9.github.io)
+* 📅 **Book a 30-Minute Consultation:** [Schedule a call](https://calendly.com/ahsan-m-riaz87004/30min)
 
----
+### 🚀 Let's Build Something Together
 
-⭐ **Interested in working together?** Explore my repositories, visit my portfolio, or book a consultation to discuss your project.
+Whether you're building a new product, adding AI capabilities to an existing application, scaling a backend system, or automating a manual workflow, feel free to reach out.
+
+⭐ **Explore my repositories, visit my portfolio, or book a consultation to discuss your project.**
+
+![Ahsan Riaz](./1626719730536.gif)
