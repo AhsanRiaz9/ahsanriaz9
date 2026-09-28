@@ -94,17 +94,7 @@ Have a product idea or an existing system that needs development or improvement?
 ### 📫 Let's Connect
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/ahsan-riaz9/)
-* 📧 [Email](mailto:ahsan.m.riaz87004@gmail.com)
+* 📧 Email: ahsan.m.riaz87004@gmail.com
 * 🐙 [GitHub](https://github.com/AhsanRiaz9)
-
----
-
-### 📊 GitHub Activity
-
-![Ahsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhsanRiaz9\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanRiaz9\&layout=compact\&langs_count=10\&theme=radical)
-
----
 
 ⭐ If you find my work useful, feel free to explore my repositories and connect with me.
