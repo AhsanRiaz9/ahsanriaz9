@@ -1,40 +1,110 @@
-![Image](1626719730536.gif?style=centerme) 
-
 # 👋 Hi, I'm Ahsan Riaz
 
-💻 **Python Developer | Backend Engineer | Web Scraping Specialist**
+### Senior Python Full Stack Developer | AI/LLM & RAG | SaaS | Automation
 
-I'm a passionate software developer with hands of experience in building scalable backend systems, APIs, and automation tools. I enjoy solving complex problems, optimizing performance, and creating products that make an impact.
+I’m a **Senior Python Full Stack Developer with 5+ years of experience** building scalable web applications, SaaS platforms, AI-powered products, automation systems, and production-ready APIs.
 
-## 🚀 Tech Stack
+I specialize in turning business requirements into **reliable, scalable, production-ready software** using Python, Django, FastAPI, React, PostgreSQL, MongoDB, AWS, and modern AI technologies.
 
-* **Languages:** Python, JavaScript/TypeScript, SQL
-* **Backend Frameworks:** Django, Django REST Framework, Flask, FastAPI
-* **Frontend:** React, HTML, CSS, Tailwind
-* **Databases & Search:** PostgreSQL, MySQL, OpenSearch/Elasticsearch
-* **Scraping & Automation:** Scrapy, Selenium, BeautifulSoup, Playwright
-* **Others:** Git, Docker, Celery, Redis, REST APIs, WebSockets
+### 💡 What I Build
 
-## 🛠 Featured Projects
+* 🤖 **AI & LLM Applications** — AI assistants, RAG systems, document Q&A, AI automation, OpenAI integrations, and intelligent workflows
+* 🚀 **SaaS Platforms** — Multi-tenant applications, subscription systems, dashboards, RBAC, APIs, and scalable backend architectures
+* 🐍 **Python Backend Systems** — Django, DRF, FastAPI, Flask, REST APIs, WebSockets, background jobs, and third-party integrations
+* ⚛️ **Full Stack Applications** — React, JavaScript/TypeScript, Tailwind CSS with Python-based backends
+* 🔄 **Automation & Integrations** — API integrations, webhooks, workflow automation, data pipelines, and business process automation
+* 🕷️ **Web Scraping & Data Engineering** — Scrapy, Selenium, Playwright, proxy systems, scheduled crawlers, and large-scale data processing
+* ☁️ **Cloud & DevOps** — AWS, Docker, CI/CD, GitHub Actions, EC2, S3, SQS, CloudWatch, and production deployments
 
-🔹 **Price Comparison Tool** – Scrapes product data from multiple marketplaces (Amazon, eBay, MyDeal, Kogan, etc.), assigns SKUs, and stores results in OpenSearch with API access.
-🔹 **Custom AI Chatbots** – Built with **FastAPI, Flask, Django, WebSockets, Redis, and RAG-based LLMs**.
-🔹 **Automation & Web Scraping Projects** – Delivered data pipelines, crawlers, and automation scripts for clients worldwide.
+### 🛠️ Tech Stack
 
-## 🌍 Let's Connect
+**Languages:**
+Python · JavaScript · TypeScript · SQL
+
+**Backend:**
+Django · Django REST Framework · FastAPI · Flask · SQLAlchemy · Alembic
+
+**Frontend:**
+React · Vue.js · Next.js · Tailwind CSS
+
+**AI / LLM:**
+OpenAI · RAG · LangChain · LlamaIndex · Vector Search · FAISS · Pinecone · Qdrant · AI Automation
+
+**Databases & Search:**
+PostgreSQL · MySQL · MongoDB · Redis · OpenSearch · Elasticsearch
+
+**Automation & Scraping:**
+Scrapy · Selenium · Playwright · BeautifulSoup · Celery · RabbitMQ
+
+**Cloud & DevOps:**
+AWS · Docker · GitHub Actions · EC2 · S3 · SQS · CloudWatch · Heroku · Netlify
+
+### 🚀 Featured Work
+
+#### ⚖️ AI Legal Platform
+
+Built an AI-powered legal platform using **FastAPI, OpenAI, MySQL, MongoDB, SQLAlchemy, and AWS**.
+
+* AI legal assistant with conversational history
+* RAG-based document Q&A
+* AI document generation with conditional clauses and placeholders
+* PDF and Word document generation
+* Analytics dashboard and user activity insights
+* Production deployment on AWS
+
+#### 🛒 Large-Scale Price Comparison Platform
+
+Built a marketplace price comparison system processing **800K+ product records**.
+
+* Scrapy-based distributed scraping
+* Selenium for dynamic websites
+* FastAPI scheduling and APIs
+* OpenSearch for high-performance product search
+* AWS S3 logging
+* Automated Buy Box monitoring
+* Slack notifications and monitoring
+
+#### 🤖 AI Chatbots & Automation
+
+Developed AI-powered assistants and automation systems using:
+
+**Python · FastAPI · Django · OpenAI · RAG · Redis · WebSockets · REST APIs**
+
+### 📈 Engineering Focus
+
+I care about:
+
+* Scalable and maintainable architecture
+* Clean and reusable Python code
+* API performance and reliability
+* Database optimization
+* Secure authentication and authorization
+* Automated testing and CI/CD
+* Production monitoring and deployment
+* Practical AI integration rather than AI for the sake of AI
+
+### 🤝 Available for
+
+I work with startups, SaaS companies, and businesses that need help with:
+
+**AI/LLM Development · RAG Applications · Python Backend Development · SaaS Development · API Development · Full Stack Development · Automation · Web Scraping · Third-Party Integrations**
+
+Have a product idea or an existing system that needs development or improvement?
+
+### 📫 Let's Connect
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/ahsan-riaz9/)
-* 📧 **[ahsan.m.riaz87004@gmail.com](mailto:ahsan.m.riaz87004@gmail.com)**
+* 📧 [Email](mailto:ahsan.m.riaz87004@gmail.com)
+* 🐙 [GitHub](https://github.com/AhsanRiaz9)
 
-✨ Always learning, always building. Let’s collaborate on meaningful projects!
+---
 
-## 📈 GitHub Stats
+### 📊 GitHub Activity
 
 ![Ahsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhsanRiaz9\&show_icons=true\&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanRiaz9\&layout=compact\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanRiaz9\&layout=compact\&langs_count=10\&theme=radical)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanriaz9&layout=compact&langs_count=12&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsanriaz9&show_icons=true&theme=radical) 
+---
 
-![Snake animation](https://raw.githubusercontent.com/ahsanriaz9/ahsanriaz9/output/github-contribution-grid-snake.svg)
-
+⭐ If you find my work useful, feel free to explore my repositories and connect with me.
